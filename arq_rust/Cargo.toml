@@ -1,0 +1,13 @@
+[package]
+name = "arq_rust"
+version = "1.0.0"
+edition = "2021"
+description = "Analizador Heurístico de Hardware — Evaluador de umbrales lógicos"
+authors = ["troncos22"]
+
+[dependencies]
+sysinfo = "0.33"
+nvml-wrapper = "0.10"
+comfy-table = "7"
+colored = "2"
+chrono = "0.4"
