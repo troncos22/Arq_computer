@@ -20,7 +20,7 @@ Herramienta local en Python que escanea los recursos físicos de tu equipo (CPU,
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/Arq_computer.git
+git clone https://github.com/troncos22/Arq_computer.git
 cd Arq_computer
 
 # Instalar y ejecutar (con Make)
