@@ -1,0 +1,4 @@
+psutil>=5.9.0
+py-cpuinfo>=9.0.0
+nvidia-ml-py>=12.535.0
+rich>=13.0.0
